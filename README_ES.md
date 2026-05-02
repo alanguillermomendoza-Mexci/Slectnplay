@@ -58,3 +58,9 @@ Slectnplay esta preparado como producto de escritorio para Windows orientado a d
 Slectnplay se distribuye a través de Microsoft Store.
 
 Los usuarios pueden instalar la aplicación directamente desde la tienda cuando esté disponible.
+
+## Licencia / Uso
+
+Slectnplay es una aplicación propietaria y de código cerrado.
+
+Este repositorio se publica únicamente con fines de documentación y visibilidad del producto. No se otorgan permisos para copiar, modificar o redistribuir la aplicación ni sus componentes.

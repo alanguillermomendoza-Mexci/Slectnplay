@@ -58,3 +58,9 @@ Slectnplay is prepared as a Windows desktop product for public distribution and 
 Slectnplay is distributed through the Microsoft Store.
 
 Users can install the application directly from the Store listing once it becomes available.
+
+## Licensing / Usage
+
+Slectnplay is a proprietary, closed-source application.
+
+This repository is provided for product visibility and documentation only. No license is granted to copy, modify, or redistribute the application or its components.
