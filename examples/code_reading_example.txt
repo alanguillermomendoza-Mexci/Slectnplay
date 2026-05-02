@@ -1,0 +1,11 @@
+Code Reading Example
+
+Slectnplay can be used to listen to short technical snippets, configuration-like text, or code-like content while reviewing a screen.
+
+Generic example lines:
+
+const result = value >= limit && status !== "error";
+items.forEach(item => process(item));
+request.url = "/users/:id";
+
+When selected text contains symbols, operators, and technical tokens, Slectnplay is intended to make them easier to follow through audio.
