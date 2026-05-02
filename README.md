@@ -52,3 +52,9 @@ Slectnplay is a closed-source application. This repository does not include prop
 ## Product Status
 
 Slectnplay is prepared as a Windows desktop product for public distribution and store listing workflows.
+
+## Installation
+
+Slectnplay is distributed through the Microsoft Store.
+
+Users can install the application directly from the Store listing once it becomes available.

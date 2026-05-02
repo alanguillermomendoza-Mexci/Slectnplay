@@ -52,3 +52,9 @@ Slectnplay es una aplicacion de codigo cerrado. Este repositorio no incluye codi
 ## Estado Del Producto
 
 Slectnplay esta preparado como producto de escritorio para Windows orientado a distribucion publica y flujos de publicacion en tienda.
+
+## Instalación
+
+Slectnplay se distribuye a través de Microsoft Store.
+
+Los usuarios pueden instalar la aplicación directamente desde la tienda cuando esté disponible.
