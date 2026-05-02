@@ -1,5 +1,14 @@
 # Slectnplay
 
+![Slectnplay logo](assets/logo.ico)
+
+## Capturas
+
+![Slectnplay captura 1](assets/screenshot_1.png)
+![Slectnplay captura 2](assets/screenshot_2.png)
+![Slectnplay captura 3](assets/screenshot_3.png)
+![Slectnplay captura 4](assets/screenshot_4.png)
+
 Slectnplay es una aplicacion de escritorio para Windows enfocada en Texto a Voz.
 
 Convierte el texto seleccionado en audio al instante cuando el usuario suelta el mouse, ayudando a reducir la fatiga visual y facilitando avanzar por informacion densa sin depender todo el tiempo de la lectura en pantalla.
