@@ -1,5 +1,14 @@
 # Slectnplay
 
+![Slectnplay logo](assets/logo.ico)
+
+## Screenshots
+
+![Slectnplay screenshot 1](assets/screenshot_1.png)
+![Slectnplay screenshot 2](assets/screenshot_2.png)
+![Slectnplay screenshot 3](assets/screenshot_3.png)
+![Slectnplay screenshot 4](assets/screenshot_4.png)
+
 Slectnplay is a Windows desktop Text-to-Speech application built for reading-heavy workflows.
 
 It converts selected text into audio instantly when the user releases the mouse, helping reduce visual fatigue and making it easier to move through dense information without staying locked to the screen.
