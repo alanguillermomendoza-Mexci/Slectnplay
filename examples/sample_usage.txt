@@ -1,0 +1,13 @@
+Slectnplay Sample Usage
+
+Reading documentation
+Select a paragraph or section from technical documentation, release notes, or reference material. When the mouse is released, Slectnplay can read the selected text aloud so the user can continue reviewing information without staying fixed on the screen.
+
+Reviewing logs
+Select relevant log lines, warnings, or diagnostic messages. Slectnplay can turn the selected output into audio, helping the user catch repeated terms, errors, and status messages while comparing other information.
+
+Listening to code snippets
+Select a short code snippet, configuration block, or technical expression. Slectnplay is designed to make symbols, operators, and common technical tokens easier to follow through spoken output.
+
+Reducing visual fatigue
+During long reading sessions, users can alternate between reading and listening. This can help reduce eye strain when reviewing long documents, technical articles, specifications, or repetitive text-heavy material.
